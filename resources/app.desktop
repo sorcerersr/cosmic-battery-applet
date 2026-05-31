@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Cosmic Battery Applet
+Comment=A battery applet for the comsic desktop
+Type=Application
+Icon=com.github.sorcerersr.comsic-battery-applet
+Exec=cosmic-battery-applet %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
